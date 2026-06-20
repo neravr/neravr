@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Platform, SRE, and Cloud DevOps engineer. MS Information Technology, WPI. Building cloud infrastructure that does not wake you up at 3am. Kubernetes, Terraform, observability, and a bit of Azure OpenAI on the side. Open to new grad roles in infrastructure and platform engineering.
+Cloud/DevOps and Information technology engineer. Completed MS in Information Technology from WPI. Building cloud infrastructure that does not wake you up at 3am or keeps you up the entire night. Kubernetes, Terraform, observability, and a bit of Azure OpenAI on the side. Open to new grad roles in infrastructure and platform engineering.
 
 
 ## 🌐 Socials:
