@@ -19,9 +19,8 @@ Cloud/DevOps and Information technology engineer. Completed MS in Information Te
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
----
-[![](https://komarev.com/ghpvc/?username=neravr&icon=0&color=10)](https://visitcount.itsvg.in)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=neravr&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
